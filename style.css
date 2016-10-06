@@ -1,0 +1,75 @@
+html{
+	background-image: url(unnamed.png) ;
+}
+#block-on-center  {
+position: absolute;
+border-radius: 10px;
+top: 50%;
+left: 50%;
+margin-top: -250px;
+margin-left: -650px;
+
+ }
+
+a{
+    text-decoration: none;
+    color: #000080;
+}
+.cal{
+border: 1px solid #878585;
+border-radius: 10px;
+color: #333;
+background: rgba(#f6f6f6, 0.77);
+font: Arial;
+font-size: 14px;
+text-align: center;}
+
+.cal:hover{
+    color: black ;
+    background: #E4E4E4;
+    
+}
+.calto{
+border: 2px solid #ccc;
+border-radius: 10px;
+	font: Arial;
+	font-size: 14px;
+	background:rgba(116, 180, 212, 0.76);
+	text-align: center;
+	font-weight: bold;
+}
+.lto{
+border: 2px solid #ccc;
+border-radius: 10px;
+	font: Arial;
+	font-size: 14px;
+	background:rgba(222, 167, 87, 0.75);
+	text-align: center;
+	font-weight: bold;
+}
+
+.caltoday{
+font: Arial;
+border-radius: 10px;
+font-size: 14px;
+background:rgba(247, 224, 7, 0.76);
+text-align: center;
+font-weight: bold;
+
+}
+
+
+.navi{
+background:rgba(109, 242, 4, 0.82);
+border-radius: 8px ;
+font: Arial;
+font-size: 16px;
+font-weight: bold;}
+
+.datehead{
+border: 2px double #ccc;
+border-radius: 10px;
+font: Arial;
+text-align: center;
+font-size: 16px;
+font-weight: bold;}
